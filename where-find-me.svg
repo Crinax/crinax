@@ -7,18 +7,32 @@
         }
         @media (prefers-color-scheme: light) {
           .container {
-            border: 1px solid #2e2e2e;
+            border: 2px solid #2e2e2e;
           }
         }
         @media (prefers-color-scheme: dark) {
           .container {
-            border: 1px solid #eaeaea;
+            border: 2px solid #eaeaea;
           }
         }
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
+        <a href="https://t.me/KirillSD_o" target="_blank">
+          <img width="32" height="32" src="https://cdn.simpleicons.org/gitlab/#FC6D26" />
+        </a>
+        
+        <a href="https://t.me/KirillSD_o" target="_blank">
+          <img width="32" height="32" src="https://cdn.simpleicons.org/telegram/#26A5E4" />
+        </a>
+        
+        <a href="https://www.linkedin.com/in/kirill-sedyshev-985316212" target="_blank">
+          <img width="32" height="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />
+        </a>
+        
+        <a href="https://habr.com/users/Crinax" target="_blank">
+          <img width="32" height="32" src="https://cdn.simpleicons.org/habr/#65A3BE" />
+        </a>
       </div>
     </div>
   </foreignObject>
